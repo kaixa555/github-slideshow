@@ -1,0 +1,24 @@
+<!DOCTYPE HTML5>
+		  <HTML>
+		  <head>
+		  <mate http-equiv="content-type" content="text/html; charset=utf-8" >
+		  <mate name="keywords" content="九宫格">
+		  <mate name="Description" content="新手村" />
+		  <link rel="stylesheet" type="text/css" href="css/css_js.css">
+		  <title>九宫格</title>
+		  </head>
+		  <body>
+		  <div class="a-b">
+		  <div class="a"></div>
+		  <div class="a"></div>
+		  <div class="a"></div>
+		  <div class="a"></div>
+		  <div class="a"></div>
+		  <div class="a"></div>
+		  <div class="a"></div>
+		  <div class="a"></div>
+		  <div class="a"></div>
+		  </div>
+		  </body>
+		  </HTML>
+		  
